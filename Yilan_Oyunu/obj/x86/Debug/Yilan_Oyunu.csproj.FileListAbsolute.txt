@@ -1,0 +1,82 @@
+C:\Users\ACER\Desktop\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.Form1.resources
+C:\Users\ACER\Desktop\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.Properties.Resources.resources
+C:\Users\ACER\Desktop\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ACER\Desktop\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ACER\Desktop\Yilan_Oyunu\Yilan_Oyunu\bin\Debug\Yilan_Oyunu.exe
+C:\Users\ACER\Desktop\Yilan_Oyunu\Yilan_Oyunu\bin\Debug\Yilan_Oyunu.pdb
+C:\Users\ACER\Desktop\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.exe
+C:\Users\ACER\Desktop\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.pdb
+E:\Yilan_Oyunu\Yilan_Oyunu\bin\Debug\Yilan_Oyunu.exe
+E:\Yilan_Oyunu\Yilan_Oyunu\bin\Debug\Yilan_Oyunu.pdb
+E:\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.Form1.resources
+E:\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.Properties.Resources.resources
+E:\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.exe
+E:\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.pdb
+L:\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.exe
+L:\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.pdb
+L:\Yilan_Oyunu\Yilan_Oyunu\bin\Debug\Yilan_Oyunu.exe
+L:\Yilan_Oyunu\Yilan_Oyunu\bin\Debug\Yilan_Oyunu.pdb
+L:\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.Form1.resources
+L:\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.Properties.Resources.resources
+L:\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.csproj.GenerateResource.Cache
+H:\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.exe
+H:\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.pdb
+H:\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.Form1.resources
+H:\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.Properties.Resources.resources
+H:\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Yilan_Oyunu\Yilan_Oyunu\bin\Debug\Yilan_Oyunu.exe
+H:\Yilan_Oyunu\Yilan_Oyunu\bin\Debug\Yilan_Oyunu.pdb
+H:\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\GenerateResource-cvtres.read.1.tlog
+H:\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\GenerateResource-cvtres.write.1.tlog
+E:\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\GenerateResource-cvtres.read.1.tlog
+E:\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\GenerateResource-cvtres.write.1.tlog
+M:\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.exe
+M:\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.pdb
+M:\Yilan_Oyunu\Yilan_Oyunu\bin\Debug\Yilan_Oyunu.exe
+M:\Yilan_Oyunu\Yilan_Oyunu\bin\Debug\Yilan_Oyunu.pdb
+M:\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.csprojResolveAssemblyReference.cache
+M:\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.Form1.resources
+M:\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.Properties.Resources.resources
+M:\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.csproj.GenerateResource.Cache
+G:\20130311 - hafize güngör - yılan oyunu\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.exe
+G:\20130311 - hafize güngör - yılan oyunu\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.pdb
+G:\20130311 - hafize güngör - yılan oyunu\Yilan_Oyunu\Yilan_Oyunu\bin\Debug\Yilan_Oyunu.exe
+G:\20130311 - hafize güngör - yılan oyunu\Yilan_Oyunu\Yilan_Oyunu\bin\Debug\Yilan_Oyunu.pdb
+G:\20130311 - hafize güngör - yılan oyunu\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\20130311 - hafize güngör - yılan oyunu\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.Form1.resources
+G:\20130311 - hafize güngör - yılan oyunu\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.Properties.Resources.resources
+G:\20130311 - hafize güngör - yılan oyunu\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\GenerateResource-cvtres.read.1.tlog
+G:\20130311 - hafize güngör - yılan oyunu\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\20130311 - hafize güngör - yılan oyunu\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\GenerateResource-cvtres.write.1.tlog
+G:\20130311 - hafize güngör - yılan oyunu\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\20130311 - hafize güngör - yılan oyunu\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.exe
+E:\20130311 - hafize güngör - yılan oyunu\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.pdb
+E:\20130311 - hafize güngör - yılan oyunu\Yilan_Oyunu\Yilan_Oyunu\bin\Debug\Yilan_Oyunu.exe
+E:\20130311 - hafize güngör - yılan oyunu\Yilan_Oyunu\Yilan_Oyunu\bin\Debug\Yilan_Oyunu.pdb
+E:\20130311 - hafize güngör - yılan oyunu\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.csprojResolveAssemblyReference.cache
+E:\20130311 - hafize güngör - yılan oyunu\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.Form1.resources
+E:\20130311 - hafize güngör - yılan oyunu\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.Properties.Resources.resources
+E:\20130311 - hafize güngör - yılan oyunu\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.csproj.GenerateResource.Cache
+D:\ÇALIŞMALARIM\20130311 - hafize güngör - yılan oyunu\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.exe
+D:\ÇALIŞMALARIM\20130311 - hafize güngör - yılan oyunu\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.pdb
+D:\ÇALIŞMALARIM\20130311 - hafize güngör - yılan oyunu\Yilan_Oyunu\Yilan_Oyunu\bin\Debug\Yilan_Oyunu.exe
+D:\ÇALIŞMALARIM\20130311 - hafize güngör - yılan oyunu\Yilan_Oyunu\Yilan_Oyunu\bin\Debug\Yilan_Oyunu.pdb
+D:\ÇALIŞMALARIM\20130311 - hafize güngör - yılan oyunu\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.csprojResolveAssemblyReference.cache
+D:\ÇALIŞMALARIM\20130311 - hafize güngör - yılan oyunu\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.Form1.resources
+D:\ÇALIŞMALARIM\20130311 - hafize güngör - yılan oyunu\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.Properties.Resources.resources
+D:\ÇALIŞMALARIM\20130311 - hafize güngör - yılan oyunu\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\lise çalışmalarım\20130311 - hafize güngör - yılan oyunu\Yilan_Oyunu\Yilan_Oyunu\bin\Debug\Yilan_Oyunu.exe
+C:\Users\HP\Desktop\lise çalışmalarım\20130311 - hafize güngör - yılan oyunu\Yilan_Oyunu\Yilan_Oyunu\bin\Debug\Yilan_Oyunu.pdb
+C:\Users\HP\Desktop\lise çalışmalarım\20130311 - hafize güngör - yılan oyunu\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\lise çalışmalarım\20130311 - hafize güngör - yılan oyunu\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.Form1.resources
+C:\Users\HP\Desktop\lise çalışmalarım\20130311 - hafize güngör - yılan oyunu\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.Properties.Resources.resources
+C:\Users\HP\Desktop\lise çalışmalarım\20130311 - hafize güngör - yılan oyunu\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\lise çalışmalarım\20130311 - hafize güngör - yılan oyunu\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\lise çalışmalarım\20130311 - hafize güngör - yılan oyunu\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.exe
+C:\Users\HP\Desktop\lise çalışmalarım\20130311 - hafize güngör - yılan oyunu\Yilan_Oyunu\Yilan_Oyunu\obj\x86\Debug\Yilan_Oyunu.pdb
